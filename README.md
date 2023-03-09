@@ -1,6 +1,7 @@
 # ReteaSocializare
 The app was developed in Java using the MVC pattern. The data are stored in a database with a postgreSQL connection.
 The graphic design was implemented with JavaFX SceneBuilder.
+&nbsp
 Features:
 1.Log in
 2.Sign up
@@ -9,7 +10,7 @@ Features:
 5.Accept friend request
 6.Delete friend
 7.Chat with a friend
-
+&nbsp
 Log in window:
 ![login-capture](https://user-images.githubusercontent.com/61902526/224092233-67c0650d-2552-418b-8ed4-c1871b3fb915.PNG)
 Main window: 
