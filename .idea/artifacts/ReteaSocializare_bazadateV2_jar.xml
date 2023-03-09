@@ -1,0 +1,25 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ReteaSocializare_bazadateV2:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ReteaSocializare_bazadateV2_jar</output-path>
+    <root id="archive" name="ReteaSocializare_bazadateV2.jar">
+      <element id="module-output" name="ReteaSocializare_bazadateV2.main" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.openjfx/javafx-graphics/19-ea+7/3b0a224171337f4752f511bf4ef343f76ec9a188/javafx-graphics-19-ea+7.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.junit.platform/junit-platform-commons/1.8.2/32c8b8617c1342376fd5af2053da6410d8866861/junit-platform-commons-1.8.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.junit.jupiter/junit-jupiter-api/5.8.2/4c21029217adf07e4c0d0c5e192b6bf610c94bdc/junit-jupiter-api-5.8.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.junit.jupiter/junit-jupiter-engine/5.8.2/c598b4328d2f397194d11df3b1648d68d7d990e3/junit-jupiter-engine-5.8.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.controlsfx/controlsfx/11.1.1/d303c563c23d5176346e8d05932afbec421060ae/controlsfx-11.1.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.openjfx/javafx-controls/19-ea+7/c22a249fffe084f939f1b9a1ab5c104db1d77800/javafx-controls-19-ea+7-win.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.kordamp.bootstrapfx/bootstrapfx-core/0.4.0/8d019b30266c00770cf29921d1008ad7feed0ed6/bootstrapfx-core-0.4.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.openjfx/javafx-base/19-ea+7/25fbcc126fd80e8a0cb7b02c866f94e2affdc563/javafx-base-19-ea+7-win.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.postgresql/postgresql/42.5.0/43751d7ec562aeabcb025844345e39c340d732ba/postgresql-42.5.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.openjfx/javafx-graphics/19-ea+7/9536a27280b41e28d30164110867eca253af5726/javafx-graphics-19-ea+7-win.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.junit.platform/junit-platform-engine/1.8.2/b737de09f19864bd136805c84df7999a142fec29/junit-platform-engine-1.8.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.opentest4j/opentest4j/1.2.0/28c11eb91f9b6d8e200631d46e20a7f407f2a046/opentest4j-1.2.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.openjfx/javafx-fxml/19-ea+7/aceb806f9a96796c0bd8940d9b87f08d129e2812/javafx-fxml-19-ea+7-win.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.checkerframework/checker-qual/3.5.0/2f50520c8abea66fbd8d26e481d3aef5c673b510/checker-qual-3.5.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.openjfx/javafx-controls/19-ea+7/e61aeb19ff9c2c3cf2ca68619746f35351b34a3b/javafx-controls-19-ea+7.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.openjfx/javafx-base/19-ea+7/e66da59d4e2544fc93d84f9936203aaf658f201d/javafx-base-19-ea+7.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.dlsc.formsfx/formsfx-core/11.5.0/4e6bc5b8ba4633b1c59d19380623c980eb81e7c2/formsfx-core-11.5.0.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

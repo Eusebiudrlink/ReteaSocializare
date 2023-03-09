@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Hyperlink?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.PasswordField?>
+<?import javafx.scene.control.Separator?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+
+<AnchorPane prefHeight="253.0" prefWidth="316.0" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.reteasocializare_bazadate.HelloController">
+   <children>
+      <Label layoutX="58.0" layoutY="-13.0" prefHeight="104.0" prefWidth="199.0" text="Log into SocialApp" textFill="#1078c7">
+         <font>
+            <Font size="23.0" />
+         </font>
+      </Label>
+      <Label fx:id="wrongCredidentials" layoutX="51.0" layoutY="152.0" prefHeight="18.0" prefWidth="222.0" textFill="#fc0000" />
+      <TextField fx:id="usernameTf" layoutX="76.0" layoutY="78.0" promptText="username" />
+      <Hyperlink alignment="BOTTOM_RIGHT" layoutX="177.0" layoutY="215.0" onAction="#onCreateAccount" text="Create a free account!" textFill="#1078c7" />
+       <Button fx:id="loginBtn" layoutX="122.0" layoutY="171.0" onAction="#onLoginClick" prefHeight="26.0" prefWidth="57.0" text="Log in" />
+      <ImageView fitHeight="68.0" fitWidth="67.0" layoutX="14.0" layoutY="171.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../../../photos/icon-networking.png" />
+         </image>
+      </ImageView>
+      <Separator layoutX="51.0" layoutY="49.0" opacity="0.59" prefHeight="18.0" prefWidth="200.0" />
+      <PasswordField fx:id="passwordTf" layoutX="76.0" layoutY="114.0" promptText="password" />
+   </children>
+</AnchorPane>
