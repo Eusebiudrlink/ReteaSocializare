@@ -1,6 +1,7 @@
 # ReteaSocializare
 First Commit
-![login-capture](https://user-images.githubusercontent.com/61902526/224091579-b7dc30ed-11e5-45a0-8f0d-a1cd54d61bbe.PNG)
-![main-window](https://user-images.githubusercontent.com/61902526/224091665-cd93860e-ea98-4500-87a7-30cbad9a95aa.PNG)
-![newFriend](https://user-images.githubusercontent.com/61902526/224091688-586e86a4-ac79-4985-b884-2f2dda63cb16.PNG)
-![chat-SocialMedia](https://user-images.githubusercontent.com/61902526/224091691-d3b3a598-4494-4d45-bb74-9a1fc6a23869.PNG)
+
+![login-capture](https://user-images.githubusercontent.com/61902526/224092233-67c0650d-2552-418b-8ed4-c1871b3fb915.PNG)
+![main-window](https://user-images.githubusercontent.com/61902526/224092247-7f2569cf-ce7f-4b25-9f21-16bdb7c35ab3.PNG)
+![newFriend](https://user-images.githubusercontent.com/61902526/224092250-83c7a814-9b34-4975-acd8-a5d15f5c7e75.PNG)
+![chat-SocialMedia](https://user-images.githubusercontent.com/61902526/224092257-24eebe2e-4315-4f08-a998-2725f0c756ce.PNG)
